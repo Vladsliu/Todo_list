@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hffQiVqZxzqQj8dfIXR+2C3eRfGUmgvEXsWsLYPMmljN11PJOAqt3Igz3ii8E6u4BN57MQ/2jh4hs2O8zotAYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Чук\\source\\repos\\Todo_sliu\\Todo_sliu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Чук\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
